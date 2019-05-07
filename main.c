@@ -99,5 +99,5 @@ int main()
 
   free(ptr5);
 
-  return 100;
+  return -7;
 }
